@@ -1,4 +1,4 @@
 #!/bin/sh
-git clone 
-cd 
+git clone git@github.com:StraightUpCode/dotfiles.git
+cd dotfiles
 make 
